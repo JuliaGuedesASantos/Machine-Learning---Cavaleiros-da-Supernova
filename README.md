@@ -1,6 +1,6 @@
 <h1 align="center" width="100%">
     <br>
-    <img style="width: 200;" src="images/Cavaleiros.png" alt="Imagem que mostra o cabeçalho da nossa guilda escrito Aliança da Supernova.">
+    <img style="width: 200px;" src="images/Cavaleiros.png" alt="Imagem que mostra o cabeçalho da nossa guilda escrito Aliança da Supernova.">
     <br>
     Aliança da Supernova
     <br>
