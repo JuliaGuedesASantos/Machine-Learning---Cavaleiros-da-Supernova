@@ -1,19 +1,41 @@
-# Aliança da Supernova - Repositório de Quests
+<h1 align="center" width="100%">
+    <br>
+    <img style="width: 200;" src="images/Cavaleiros.png" alt="Imagem que mostra o cabeçalho da nossa guilda escrito Aliança da Supernova.">
+    <br>
+    Aliança da Supernova
+    <br>
+</h1>
+
+<h4 align="center">
+    Repositório da Aliança da Supernova para o curso de Aprendizado de Máquina do professor Daniel Cassar.
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tsuru-Júlia Guedes-8A2BE2">
+  <img src="https://img.shields.io/badge/Pólux-Racquel_Godoy-004AAD">
+  <img src="https://img.shields.io/badge/Tiles-Thalles Cansi-7ED957">
+</p>
+
+<p align="center">
+  <a href="#Sobre-o-Projeto">Sobre</a> •
+  <a href="#Estrutura-do-Repositório">Estrutura</a> •
+  <a href="#Personagens-Principais">Personagens</a> •
+  <a href="#Filosofia-da-Aliança">Filosofia</a>
+</p>
 
 ## Sobre o Projeto
 
-<div style="display: flex; justify-content: center;">
-    <img style="width: 300px; border-radius: 5%"src="images/Logo - Aliança da Supernova.png">
-</div>
-
 <br>
 
-Este repositório contém as quests realizadas pela **Aliança da Supernova** no curso de Aprendizado de Máquina do professor **Daniel Cassar**. A **Aliança da Supernova** é composta pelos cavaleiros **Tsuru**, **Pólux**, e **Tiles**, que, após a injustiça sofrida por **Castor**, irmão gêmeo de Pólux, decidiram se rebelar contra a filosofia da **União Total**. Este repositório reflete suas jornadas em busca de uma revolução, em que cada indivíduo é valorizado por suas habilidades únicas.
+Este repositório contém as quests realizadas pela **Aliança da Supernova** no curso de Aprendizado de Máquina do professor **Daniel Cassar**. A **Aliança da Supernova** é composta pelos cavaleiros **Tsuru**, **Pólux**, e **Tiles**, que, após a injustiça sofrida por **Castor**, irmão gêmeo de Pólux, decidiram se rebelar contra a filosofia da **União Total**. Este repositório reflete suas jornadas
+em busca de uma revolução, em que cada indivíduo é valorizado por suas habilidades únicas.
 
 ## Estrutura do Repositório
 
-- `Quests 1`: Início da jornada da Aliança da Supernova, com a resolução de problemas de familiarização com datasets, visualização de dados, normalização e algortimos de classificação.
-- `Quests 2`: 
+- <a href="https://github.com/JuliaGuedesASantos/Machine-Learning---Cavaleiros-da-Supernova/tree/main/Mural%20da%20Taverna%20do%20Sol%20-%20Quests%201">☀️ Quests 1<a>: Início da jornada da Aliança da Supernova, com a resolução de problemas de familiarização com datasets, visualização de dados, normalização e algortimos de classificação.
+- <a href="https://github.com/JuliaGuedesASantos/Machine-Learning---Cavaleiros-da-Supernova/tree/main/Mural%20da%20Pra%C3%A7a%20da%20Fonte%20-%20Quests%202">⛲ Quests 2</a>:
+- <a href="https://github.com/JuliaGuedesASantos/Machine-Learning---Cavaleiros-da-Supernova/tree/main/Mural%20da%20Biblioteca%20Real%20-%20Quests%203">📚 Quests 3</a>:
+- <a href="https://github.com/JuliaGuedesASantos/Machine-Learning---Cavaleiros-da-Supernova/tree/main/Criatura%20Lend%C3%A1ria%20">🐲 Criatura Lendária</a>:
 
 Cada diretório contém os scripts, códigos, e arquivos necessários para a resolução das quests.
 
