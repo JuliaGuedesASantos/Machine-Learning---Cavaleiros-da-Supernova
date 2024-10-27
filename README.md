@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tsuru-Júlia Guedes-8A2BE2">
-  <img src="https://img.shields.io/badge/Pólux-Racquel_Godoy-004AAD">
+  <img src="https://img.shields.io/badge/Pólux-Raquel_Godoy-004AAD">
   <img src="https://img.shields.io/badge/Tiles-Thalles Cansi-7ED957">
 </p>
 
@@ -41,29 +41,27 @@ Cada diretório contém os scripts, códigos, e arquivos necessários para a res
 
 ## 🧙🏼‍♂️ Personagens Principais
 
-<div style="display: flex; align-items: center;">
-    <div>
-        <h3>Tsuru</h3>
-        <p style="margin: 0;">Cavaleiro da Supernova, especialista em táticas de combate.</p>
-    </div>
-    <img style="height: 100px; border-radius: 10% 0%; padding: 0px 20px 0px 0px" src="images/Tsuru.png">
-</div>
+<img align="left" width="50" src="images/Tsuru.png">
 
-<div style="display: flex; align-items: center;">
-    <div>
-        <h3>Pólux</h3>
-        <p style="margin: 0;">Irmã de Castor, cavaleira exímia que luta por um sistema mais justo e igualitário.</p>
-    </div>
-    <img style="height: 100px; border-radius: 10% 0%; padding: 0px 20px 0px 0px" src="images/Pólux.png">
-</div>
+### Tsuru
 
-<div style="display: flex; align-items: center;">
-    <div>
-        <h3>Tiles</h3>
-        <p style="margin: 0;">Mestre estrategista e defensor das ideias revolucionárias, aliado de Tsuru e Pólux.</p>
-    </div>
-    <img style="height: 100px; border-radius: 10% 0%; padding: 0px 20px 0px 0px" src="images/Tiles.png">
-</div>
+Cavaleiro da Supernova, especialista em táticas de combate.
+
+---
+
+<img align="right" width="50" src="images/Pólux.png">
+
+### Pólux
+
+Irmã de Castor, cavaleira exímia que luta por um sistema mais justo e igualitário.
+
+---
+
+<img align="left" width="50" src="images/Tiles.png">
+
+### Tiles
+
+Mestre estrategista e defensor das ideias revolucionárias, aliado de Tsuru e Pólux.
 
 ## 🪨 Filosofia da Aliança
 
