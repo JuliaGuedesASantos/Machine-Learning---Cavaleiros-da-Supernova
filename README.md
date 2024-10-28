@@ -70,15 +70,27 @@ A **Aliança da Supernova** busca a reestruturação da organização dos cavale
 ## 📜 Referências
 
 A **Aliança da Supernova** reconhece os anciãos e seus manuscritos repletos de conhecimento sem os quais a jornada teria sido extremamente árdua e, com certeza, menos satisfatória. Nesse sentido, abaixo, encontram-se listados os pergaminhos que foram essenciais para concluir as aventuras sobreditas e, sobretudo, derrotar o dragão que assolava Lumi.
+
 Bibliotecas:
+
 [1] Pandas. Versão 2.2.2. Disponível em: https://pandas.pydata.org/.
+
 [2] Scikit-learn. Versão 1.5.1. Disponível em: https://scikit-learn.org/.
+
 [3] Statistics. Versão 1.0.3.5. Disponível em: https://docs.python.org/3/library/statistics.html.
+
 [4] 
+
 [5] 
+
 [6] 
+
 [7] 
+
 [8] 
+
 [9] 
+
 [10] 
+
 [11] 
