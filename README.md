@@ -73,6 +73,7 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 <details>
 <summary>📝 Referências</summary>
+
 **📚 Bibliotecas**:
 
 [1] Pandas. Versão 2.2.2. Disponível em: https://pandas.pydata.org/.
