@@ -66,3 +66,7 @@ Mestre estrategista e defensor das ideias revolucionárias, aliado de Tsuru e P�
 ## 🪨 Filosofia da Aliança
 
 A **Aliança da Supernova** busca a reestruturação da organização dos cavaleiros no império, para que cada um possa usar suas habilidades únicas de forma eficaz e satisfatória para a proteção de **Lumi**.
+
+## 📜 Referências
+
+A **Aliança da Supernova** reconhece os anciãos e seus manuscritos repletos de conhecimento sem os quais a jornada teria sido extremamente árdua e, com certeza, menos satisfatória. Nesse sentido, abaixo, encontram-se listados os pergaminhos que foram essenciais para concluir as aventuras sobreditas e, sobretudo, derrotar o dragão que assolava Lumi.
