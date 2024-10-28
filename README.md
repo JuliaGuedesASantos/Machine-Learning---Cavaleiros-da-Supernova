@@ -97,7 +97,7 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [11] Scipy. Versão 1.14.0. Disponível em: https://www.scipy.org/.
 
-**📜 Bibliografia - Criatura Lendária**:
+**🐲 Bibliografia - Criatura Lendária**:
 
 [1] Cassar, Daniel Roberto - Materiais de aula das disciplinas de Aprendizado de Máquina (ATP-203) e de Probabilidade e Estatística (LMA-203). Os notebooks consultados encontram-se listados a seguir: *ATP-203 1.1 - Tratamento de dados*; *ATP-203 2.1 - Aprendizado de máquina, k-NN e métricas*; *ATP-203 3.0 - Modelo linear e baseline*; *ATP-203 4.0 - Split de dados de treino e teste*; *ATP-203 4.1 - Árvore de decisão*; *ATP-203 5.0 - Validação cruzada, busca aleatória e busca em grade*; *ATP-203 5.1 - Floresta aleatória*; *ATP-203 6.1 - Otimização de hiperparâmetros com optuna*; *ATP-203 7.0 - Dados sintéticos e pipeline*; *ATP-203 7.1 - Seleção de atributos*; *ATP-203 8.0 - A matrix de covariância e a matriz de correlação*; *ATP-203 8.1 - Redução de dimensionalidade com PCA*; *LMA-203 1.0 - Estatística descritiva*.
 
