@@ -19,10 +19,10 @@
 <p align="center">
   <a href="#-Sobre-o-Projeto">📝 Sobre</a> •
   <a href="#-Estrutura-do-Repositório">🚧 Estrutura</a> •
-  <a href="#-Executando-o-projeto">🏗️ Executando</a> •
-  <a href="#-Personagens-Principais">🧙🏼‍♂️ Personagens</a> •
-  <a href="#-Filosofia-da-Aliança">🪨 Filosofia</a> •
-  <a href="#-Referências"> 🗃️ Referências</a>
+  <a href="#%EF%B8%8F-Executando-o-projeto">🏗️ Executando</a> •
+  <a href="#%EF%B8%8F-Personagens-Principais">🧙🏼‍♂️ Personagens</a> •
+  <a href="#-Filosofia-da-Alian%C3%A7a">🪨 Filosofia</a> •
+  <a href="#%EF%B8%8F-Refer%C3%AAncias"> 🗃️ Referências</a>
 </p>
 
 ## 📝 Sobre o Projeto
