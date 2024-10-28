@@ -67,11 +67,11 @@ Mestre estrategista e defensor das ideias revolucionárias, aliado de Tsuru e P�
 
 A **Aliança da Supernova** busca a reestruturação da organização dos cavaleiros no império, para que cada um possa usar suas habilidades únicas de forma eficaz e satisfatória para a proteção de **Lumi**.
 
-## 📜 Referências
+## 🗃️ Referências
 
 A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de conhecimento sem os quais a jornada teria sido extremamente árdua e, com certeza, menos satisfatória. Nesse sentido, abaixo, encontram-se listados os pergaminhos que foram essenciais para concluir as aventuras sobreditas e, sobretudo, derrotar o dragão que assolava Lumi.
 
-**Bibliotecas**:
+**📚 Bibliotecas**:
 
 [1] Pandas. Versão 2.2.2. Disponível em: https://pandas.pydata.org/.
 
@@ -95,14 +95,21 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [11] Scipy. Versão 1.14.0. Disponível em: https://www.scipy.org/.
 
-**Bibliografia - Criatura Lendária**:
-[1]
+**📜 Bibliografia - Criatura Lendária**:
 
-**Bibliografia - Quests**:
+[1] Cassar, Daniel Roberto - Materiais de aula das disciplinas de Aprendizado de Máquina (ATP-203) e de Probabilidade e Estatística (LMA-203). Os notebooks consultados encontram-se listados a seguir: *ATP-203 1.1 - Tratamento de dados*; *ATP-203 2.1 - Aprendizado de máquina, k-NN e métricas*; *ATP-203 3.0 - Modelo linear e baseline*; *ATP-203 4.0 - Split de dados de treino e teste*; *ATP-203 4.1 - Árvore de decisão*; *ATP-203 5.0 - Validação cruzada, busca aleatória e busca em grade*; *ATP-203 5.1 - Floresta aleatória*; *ATP-203 6.1 - Otimização de hiperparâmetros com optuna*; *ATP-203 7.0 - Dados sintéticos e pipeline*; *ATP-203 7.1 - Seleção de atributos*; *ATP-203 8.0 - A matrix de covariância e a matriz de correlação*; *ATP-203 8.1 - Redução de dimensionalidade com PCA*; *LMA-203 1.0 - Estatística descritiva*.
 
-[1] Cassar, Daniel Roberto - Materiais de aula das disciplinas de Aprendizado de Máquina (ATP 203) e de Probabilidade e Estatística (LMA 203). Os notebooks consultados encontram-se listados a seguir: *1.1 - Tratamento de dados*; *2.1 - Aprendizado de máquina*, *k-NN e métricas*; *3.0 - Modelo linear e baseline*; *4.0 - Split de dados de treino e teste*; *4.1 - Árvore de decisão*; *5.0 - Validação cruzada, busca aleatória e busca em grade*; *5.1 - Floresta aleatória*; *6.1 - Otimização de hiperparâmetros com optuna*; *7.0 - Dados sintéticos e pipeline*; *7.1 - Seleção de atributos*; *8.0 - A matrix de covariância e a matriz de correlação*; *8.1 - Redução de dimensionalidade com PCA*.
+[2] Branício, Paulo S. «Introdução à Supercondutividade, Suas Aplicações e a Mini-Revolução Provocada Pela Redescoberta Do MGB2: Uma Abordagem Didática». Revista Brasileira de Ensino de Física, vol. 23, n.o 4, dezembro de 2001. DOI.org (Crossref), https://doi.org/10.1590/S0102-47442001000400004.
 
-###### Quests 1
+[3] Hamidieh, Kam. «A Data-Driven Statistical Model for Predicting the Critical Temperature of a Superconductor». Computational Materials Science, vol. 154, novembro de 2018, pp. 346–54. DOI.org (Crossref), https://doi.org/10.1016/j.commatsci.2018.07.052.
+
+[4] Hamidieh, Kam. Superconductivty Data. UCI Machine Learning Repository, 2018. DOI.org (Datacite), https://doi.org/10.24432/C53P47. 
+
+**📜 Bibliografia - Quests**:
+
+[1] Cassar, Daniel Roberto - Materiais de aula da disciplina de Aprendizado de Máquina (ATP 203). Os notebooks consultados encontram-se listados a seguir: *ATP-203 1.1 - Tratamento de dados*; *ATP-203 2.1 - Aprendizado de máquina, k-NN e métricas*; *ATP-203 3.0 - Modelo linear e baseline*; *ATP-203 4.0 - Split de dados de treino e teste*; *ATP-203 4.1 - Árvore de decisão*; *ATP-203 5.0 - Validação cruzada, busca aleatória e busca em grade*; *ATP-203 5.1 - Floresta aleatória*; *ATP-203 6.1 - Otimização de hiperparâmetros com optuna*; *ATP-203 7.0 - Dados sintéticos e pipeline*; *ATP-203 7.1 - Seleção de atributos*; *ATP-203 8.0 - A matrix de covariância e a matriz de correlação*; *ATP-203 8.1 - Redução de dimensionalidade com PCA*.
+
+###### **Quests 1**
 
 [2] Fácil, Aprender Estatística. “O que é: Standard Normal Distribution (Distribuição Normal Padrão)”. APRENDER ESTATÍSTICA FÁCIL, 26 de julho de 2024, https://estatisticafacil.org/glossario/o-que-e-standard-normal-distribution-distribuicao-normal-padrao/.
 
@@ -116,7 +123,7 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [7] Github do Seaborn. https://github.com/mwaskom/seaborn-data?tab=readme-ov-file.
 
-###### Quests 2
+###### **Quests 2**
 
 [8] "TLC Trip Record Data". New York City Taxi and Limousine Commission (TLC), 09 de agosto de 2017, https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
 
@@ -160,7 +167,7 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [28] seaborn.load_dataset — seaborn 0.13.2 documentation. https://seaborn.pydata.org/generated/seaborn.load_dataset.html. Acesso em 23 de setembro de 2024.
 
-###### Quests 3
+###### **Quests 3**
 
 [29] IBM. “What Is Support Vector Machine? | IBM.” Www.ibm.com, 27 Dec. 2023, www.ibm.com/topics/support-vector-machine.
 
@@ -191,4 +198,3 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 [42] “KNeighborsRegressor”. Scikit-Learn, https://scikit-learn/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html. Acesso em 22 de outubro de 2024.
 
 [43] “3.4. Metrics and Scoring: Quantifying the Quality of Predictions”. Scikit-Learn, https://scikit-learn/stable/modules/model_evaluation.html. Acesso em 22 de outubro de 2024.
-
