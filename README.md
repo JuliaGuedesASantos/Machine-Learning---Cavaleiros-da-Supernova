@@ -79,18 +79,18 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [3] Statistics. Versão 1.0.3.5. Disponível em: https://docs.python.org/3/library/statistics.html.
 
-[4] 
+[4] os. Disponível em: https://docs.python.org/3/library/os.html.
 
-[5] 
+[5] Seaborn. Versão 0.13.2.Disponível em: https://seaborn.pydata.org/.
 
-[6] 
+[6] Matplotlib. Versão 3.9.1. Disponível em: https://matplotlib.org/.
 
-[7] 
+[7] Plotly. Versão 5.24.1. Disponível em: https://plotly.com/python/.
 
-[8] 
+[8] Numpy. Versão 2.0.0. Disponível em: https://numpy.org/.
 
-[9] 
+[9] Optuna. Versão 4.0.0. Disponível em: https://optuna.org/.
 
-[10] 
+[10] Graphviz. Versão 0.20.3. Disponível em: https://graphviz.gitlab.io/.
 
-[11] 
+[11] Scipy. Versão 1.14.0. Disponível em: https://www.scipy.org/.
