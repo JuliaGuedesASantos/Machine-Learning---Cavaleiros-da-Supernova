@@ -19,13 +19,13 @@
 <p align="center">
   <a href="#Sobre-o-Projeto">📝 Sobre</a> •
   <a href="#Estrutura-do-Repositório">🚧 Estrutura</a> •
+  <a href="#Executando-o-projeto">🏗️ Executando</a> •
   <a href="#Personagens-Principais">🧙🏼‍♂️ Personagens</a> •
-  <a href="#Filosofia-da-Aliança">🪨 Filosofia</a>
+  <a href="#Filosofia-da-Aliança">🪨 Filosofia</a> •
+  <a href="#Referências"> 🗃️ Referências</a>
 </p>
 
 ## 📝 Sobre o Projeto
-
-<br>
 
 Este repositório contém as quests realizadas pela **Aliança da Supernova** no curso de Aprendizado de Máquina do professor **Daniel Cassar**. A **Aliança da Supernova** é composta pelos cavaleiros **Tsuru**, **Pólux**, e **Tiles**, que, após a injustiça sofrida por **Castor**, irmão gêmeo de Pólux, decidiram se rebelar contra a filosofia da **União Total**. Este repositório reflete suas jornadas
 em busca de uma revolução, em que cada indivíduo é valorizado por suas habilidades únicas.
@@ -38,6 +38,50 @@ em busca de uma revolução, em que cada indivíduo é valorizado por suas habil
 - <a href="https://github.com/JuliaGuedesASantos/Machine-Learning---Cavaleiros-da-Supernova/tree/main/Criatura%20Lend%C3%A1ria%20">🐲 Criatura Lendária</a>: A temida batalha contra o dragão! A Aliança da Supernova encontra seu mais temido inimigo em uma batalha um tanto quanto desafiadora: será necessária a ajuda de todos os aliados angariados no decorrer de sua joranada, além disso, os guerreiros precisarão de todo o conhecimento adquirido nos entraves anteriores se quiserem combater essa criatura e proteger o reino de Lumi. Acesse a este diretório para encontrar essa batalha épica: o assombroso projeto final da disciplina.
 
 Cada diretório contém os scripts, códigos, e arquivos necessários para a resolução das quests.
+
+Aqui está um exemplo de como você pode estruturar a seção "Executando o projeto" no seu README, com os passos necessários para clonar e rodar o projeto:
+
+## 🏗️ Executando o projeto
+
+Siga os passos abaixo para configurar e rodar o projeto localmente:
+
+> Alguns códigos para serem executados no seu próprio computador podem demorar uma eternidade. Tente utilizar um HPC para rodar os códigos mais pesados.
+
+### 1. Clone o repositório
+Primeiro, clone o repositório da Aliança da Supernova para o seu ambiente local:
+```bash
+git clone https://github.com/JuliaGuedesASantos/Machine-Learning---Cavaleiros-da-Supernova.git
+```
+
+### 2. Acesse o diretório do projeto
+Navegue até o diretório recém-clonado:
+```bash
+cd Machine-Learning---Cavaleiros-da-Supernova
+```
+
+### 3. Crie e ative um ambiente virtual (opcional, mas recomendado)
+Para evitar conflitos de dependências, recomenda-se a criação de um ambiente virtual:
+```bash
+python -m venv venv
+
+# No Windows
+venv\Scripts\activate
+
+# No macOS/Linux
+source venv/bin/activate
+```
+
+### 4. Instale as dependências
+Com o ambiente virtual ativo (ou sem ele, se preferir), instale todas as bibliotecas necessárias:
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Execute os notebooks
+Agora, você pode abrir os notebooks e começar a resolver as quests:
+```bash
+jupyter notebook
+```
 
 ## 🧙🏼‍♂️ Personagens Principais
 
@@ -65,7 +109,7 @@ Mestre estrategista e defensor das ideias revolucionárias, aliado de Tsuru e P�
 
 ## 🪨 Filosofia da Aliança
 
-A **Aliança da Supernova** busca a reestruturação da organização dos cavaleiros no império, para que cada um possa usar suas habilidades únicas de forma eficaz e satisfatória para a proteção de **Lumi**.
+A **Aliança da Supernova** busca a reestruturação da organização dos cavaleiros no império, promovendo um uso eficiente das habilidades únicas de cada indivíduo para a proteção de **Lumi**. Essa visão está alinhada com a abordagem utilizada nas tarefas de aprendizado de máquina aqui realizadas, onde buscamos otimizar e explorar modelos de forma colaborativa para alcançar a máxima eficiência e precisão.
 
 ## 🗃️ Referências
 
