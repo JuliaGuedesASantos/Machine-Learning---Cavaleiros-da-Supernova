@@ -72,9 +72,7 @@ A **Aliança da Supernova** busca a reestruturação da organização dos cavale
 A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de conhecimento sem os quais a jornada teria sido extremamente árdua e, com certeza, menos satisfatória. Nesse sentido, abaixo, encontram-se listados os pergaminhos que foram essenciais para concluir as aventuras sobreditas e, sobretudo, derrotar o dragão que assolava Lumi.
 
 <details>
-<summary>📝 Referências</summary>
-
-**📚 Bibliotecas**:
+<summary>📚 Bibliotecas</summary>
 
 [1] Pandas. Versão 2.2.2. Disponível em: https://pandas.pydata.org/.
 
@@ -97,8 +95,10 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 [10] Graphviz. Versão 0.20.3. Disponível em: https://graphviz.gitlab.io/.
 
 [11] Scipy. Versão 1.14.0. Disponível em: https://www.scipy.org/.
+</details>
 
-**🐲 Bibliografia - Criatura Lendária**:
+<details>
+<summary>🐲 Bibliografia - Criatura Lendária</summary>
 
 [1] Cassar, Daniel Roberto - Materiais de aula das disciplinas de Aprendizado de Máquina (ATP-203) e de Probabilidade e Estatística (LMA-203). Os notebooks consultados encontram-se listados a seguir: *ATP-203 1.1 - Tratamento de dados*; *ATP-203 2.1 - Aprendizado de máquina, k-NN e métricas*; *ATP-203 3.0 - Modelo linear e baseline*; *ATP-203 4.0 - Split de dados de treino e teste*; *ATP-203 4.1 - Árvore de decisão*; *ATP-203 5.0 - Validação cruzada, busca aleatória e busca em grade*; *ATP-203 5.1 - Floresta aleatória*; *ATP-203 6.1 - Otimização de hiperparâmetros com optuna*; *ATP-203 7.0 - Dados sintéticos e pipeline*; *ATP-203 7.1 - Seleção de atributos*; *ATP-203 8.0 - A matrix de covariância e a matriz de correlação*; *ATP-203 8.1 - Redução de dimensionalidade com PCA*; *LMA-203 1.0 - Estatística descritiva*.
 
@@ -106,13 +106,16 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [3] Hamidieh, Kam. «A Data-Driven Statistical Model for Predicting the Critical Temperature of a Superconductor». Computational Materials Science, vol. 154, novembro de 2018, pp. 346–54. DOI.org (Crossref), https://doi.org/10.1016/j.commatsci.2018.07.052.
 
-[4] Hamidieh, Kam. Superconductivty Data. UCI Machine Learning Repository, 2018. DOI.org (Datacite), https://doi.org/10.24432/C53P47. 
+[4] Hamidieh, Kam. Superconductivty Data. UCI Machine Learning Repository, 2018. DOI.org (Datacite), https://doi.org/10.24432/C53P47.
+</details>
 
-**📜 Bibliografia - Quests**:
+<details>
+<summary>📜 Bibliografia - Quests</summary>
 
 [1] Cassar, Daniel Roberto - Materiais de aula da disciplina de Aprendizado de Máquina (ATP 203). Os notebooks consultados encontram-se listados a seguir: *ATP-203 1.1 - Tratamento de dados*; *ATP-203 2.1 - Aprendizado de máquina, k-NN e métricas*; *ATP-203 3.0 - Modelo linear e baseline*; *ATP-203 4.0 - Split de dados de treino e teste*; *ATP-203 4.1 - Árvore de decisão*; *ATP-203 5.0 - Validação cruzada, busca aleatória e busca em grade*; *ATP-203 5.1 - Floresta aleatória*; *ATP-203 6.1 - Otimização de hiperparâmetros com optuna*; *ATP-203 7.0 - Dados sintéticos e pipeline*; *ATP-203 7.1 - Seleção de atributos*; *ATP-203 8.0 - A matrix de covariância e a matriz de correlação*; *ATP-203 8.1 - Redução de dimensionalidade com PCA*.
 
-##### -Quests 1-
+<details>
+<summary>🥇 Quests 1</summary>
 
 [2] Fácil, Aprender Estatística. “O que é: Standard Normal Distribution (Distribuição Normal Padrão)”. APRENDER ESTATÍSTICA FÁCIL, 26 de julho de 2024, https://estatisticafacil.org/glossario/o-que-e-standard-normal-distribution-distribuicao-normal-padrao/.
 
@@ -125,8 +128,10 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 [6] “O Que Significa a Cilindrada do Motor e no Que Ela Influencia?” Blog Unidas Seminovos, 16 de maio de 2017, https://seminovos.unidas.com.br/blog/cilindrada-do-motor/.
 
 [7] Github do Seaborn. https://github.com/mwaskom/seaborn-data?tab=readme-ov-file.
+</details>
 
-##### -Quests 2-
+<details>
+<summary>🥈 Quests 2</summary>
 
 [8] "TLC Trip Record Data". New York City Taxi and Limousine Commission (TLC), 09 de agosto de 2017, https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
 
@@ -169,8 +174,10 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 [27] Arcanjo, Jonys. “Maldição Da Dimensionalidade”. Data Hackers, 25 de setembro de 2022, https://medium.com/data-hackers/maldi%C3%A7%C3%A3o-da-dimensionalidade-655e4342d64.
 
 [28] seaborn.load_dataset — seaborn 0.13.2 documentation. https://seaborn.pydata.org/generated/seaborn.load_dataset.html. Acesso em 23 de setembro de 2024.
+</details>
 
-##### -Quests 3-
+<details>
+<summary>🥉 Quests 3</summary>
 
 [29] IBM. “What Is Support Vector Machine? | IBM.” Www.ibm.com, 27 Dec. 2023, www.ibm.com/topics/support-vector-machine.
 
