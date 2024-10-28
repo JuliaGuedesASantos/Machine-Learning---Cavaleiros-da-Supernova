@@ -109,7 +109,7 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [1] Cassar, Daniel Roberto - Materiais de aula da disciplina de Aprendizado de Máquina (ATP 203). Os notebooks consultados encontram-se listados a seguir: *ATP-203 1.1 - Tratamento de dados*; *ATP-203 2.1 - Aprendizado de máquina, k-NN e métricas*; *ATP-203 3.0 - Modelo linear e baseline*; *ATP-203 4.0 - Split de dados de treino e teste*; *ATP-203 4.1 - Árvore de decisão*; *ATP-203 5.0 - Validação cruzada, busca aleatória e busca em grade*; *ATP-203 5.1 - Floresta aleatória*; *ATP-203 6.1 - Otimização de hiperparâmetros com optuna*; *ATP-203 7.0 - Dados sintéticos e pipeline*; *ATP-203 7.1 - Seleção de atributos*; *ATP-203 8.0 - A matrix de covariância e a matriz de correlação*; *ATP-203 8.1 - Redução de dimensionalidade com PCA*.
 
-###### **Quests 1**
+##### -Quests 1-
 
 [2] Fácil, Aprender Estatística. “O que é: Standard Normal Distribution (Distribuição Normal Padrão)”. APRENDER ESTATÍSTICA FÁCIL, 26 de julho de 2024, https://estatisticafacil.org/glossario/o-que-e-standard-normal-distribution-distribuicao-normal-padrao/.
 
@@ -123,7 +123,7 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [7] Github do Seaborn. https://github.com/mwaskom/seaborn-data?tab=readme-ov-file.
 
-###### **Quests 2**
+##### -Quests 2-
 
 [8] "TLC Trip Record Data". New York City Taxi and Limousine Commission (TLC), 09 de agosto de 2017, https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
 
@@ -167,7 +167,7 @@ A *Aliança da Supernova* reconhece os anciãos e seus manuscritos repletos de c
 
 [28] seaborn.load_dataset — seaborn 0.13.2 documentation. https://seaborn.pydata.org/generated/seaborn.load_dataset.html. Acesso em 23 de setembro de 2024.
 
-###### **Quests 3**
+##### -Quests 3-
 
 [29] IBM. “What Is Support Vector Machine? | IBM.” Www.ibm.com, 27 Dec. 2023, www.ibm.com/topics/support-vector-machine.
 
